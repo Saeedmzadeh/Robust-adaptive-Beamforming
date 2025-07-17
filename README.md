@@ -1,5 +1,5 @@
 # Robust-adaptive-Beamforming
-Interference-plus-noise matrix reconstruction
+Interference-plus-noise covariance matrix reconstruction
 
 This repository contains MATLAB code in Robust adaptive beamforming for interference-plus-noise matrix reconstruction. This code is for two papers: 
 1) Covariance Matrix Reconstruction Based on Power Spectral Estimation and Uncertainty Region for Robust Adaptive Beamforming. https://doi.org/10.1109/TAES.2022.3232100
