@@ -1,5 +1,5 @@
 # Robust-adaptive-Beamforming
-Interference-plus-noise covariance matrix reconstruction
+Interference plus noise covariance matrix reconstruction
 # IPNC matrix
 # INC
 
