@@ -1,5 +1,7 @@
 # Robust-adaptive-Beamforming
 Interference-plus-noise covariance matrix reconstruction
+# IPNC matrix
+# INC
 
 This repository contains MATLAB code in Robust adaptive beamforming for interference-plus-noise covariance matrix reconstruction. This code is for two papers: 
 1) Covariance Matrix Reconstruction Based on Power Spectral Estimation and Uncertainty Region for Robust Adaptive Beamforming (IPN-PSEUR). https://doi.org/10.1109/TAES.2022.3232100
